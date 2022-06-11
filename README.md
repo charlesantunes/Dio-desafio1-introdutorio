@@ -1,2 +1,2 @@
 # Dio-desafio1-introdutorio
-primeiro desafio do bootcamp Dio
+primeiro desafio do bootcamp Dio Git/Github
