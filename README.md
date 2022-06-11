@@ -7,7 +7,7 @@
 
 **futuramente vou subir um projeto do bootcamp.**
 
-**Obs: as imagens serão atualizadas.**
+**Obs: as imagens serão atualizadas e adicionadas.**
 
 Nesse resumo básico, os créditos são para as aulas de configuração do Desenvolvedor Web do instrutor Otávio Reis da comunidade Digital Innovation One.
 
